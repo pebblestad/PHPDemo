@@ -18,6 +18,8 @@ The project covers these programming concepts:
  * Variables
  * Arrays
  * Functions
+ 
+ 
  * Basic example of separation of concerns *(functionality, template, content)*
 
 If you have any questions or recommendations for the project, please [create an issue](https://github.com/banago/simple-php-website/issues/new) or hit me up on Twitter [@banago](https://twitter.com/banago).
