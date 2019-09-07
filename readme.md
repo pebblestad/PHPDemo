@@ -30,4 +30,4 @@ If you have any questions or recommendations for the project, please [create an 
 
 MIT
 
-https://csuphpdemo.herokuapp.com
+https://assignmentonejohnathan.herokuapp.com
