@@ -20,14 +20,6 @@ nav .active {
     border-bottom: 1px solid;
 }
 
-#home {
+.text-color {
     color: aqua;
-}
-
-#aboutMe {
-    color: orange;
-}
-
-#bonnaroo {
-    color: red;
 }
