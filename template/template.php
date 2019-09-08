@@ -9,7 +9,9 @@
 <div class="wrap">
 
     <header>
+        <div class="title">
         <h1><?php site_name(); ?></h1>
+        </div>
         <nav class="menu">
             <?php nav_menu(); ?>
         </nav>
