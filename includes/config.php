@@ -13,8 +13,8 @@ function config($key = '')
         'site_url' => 'https://assignmentonejohnathan.herokuapp.com',
         'nav_menu' => [
             '' => 'Home',
-            'about-us' => 'About Us',
-            'festival' => 'Festival'
+            'about-me' => 'About Me',
+            'bonnaroo' => 'Bonnaroo'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
