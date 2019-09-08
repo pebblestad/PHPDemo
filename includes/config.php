@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Johnathan Stadtmueller',
         'pretty_uri' => false,
         'site_url' => 'https://assignmentonejohnathan.herokuapp.com',
         'nav_menu' => [
